@@ -153,7 +153,7 @@ section {
     border-radius: 100%;
 }
 
-.section-testimonials-item > h3 {
+.section-testimonials-item > h2 {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 1;
